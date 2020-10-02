@@ -1,0 +1,93 @@
+
+
+
+
+.color{
+    width: 100%;
+    background-color: #f6f6f6;
+}
+
+.order-base {
+	display: flex;
+	flex-direction: column;
+	
+	width: 77%;
+	height: auto;
+	margin-right: 4%;
+	float: right;
+    white-space: nowrap;
+	
+}
+.heading {
+	margin-bottom: 10px;
+	margin-left: 20%;
+}
+.ali {
+	margin-top: 100px;
+}
+.ali1{
+    
+    margin-top:120px;
+}
+.base-header {
+	
+	min-width: 500px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+    border: none;
+	border-bottom: 3px solid lightgray;
+}
+.base-header::after {
+	content: '';
+	display: inline-block;
+	width: 100%;
+}
+.product-pic {
+	width: 74px;
+	height: 57px;
+}
+.sub-h1 {
+    margin-left: 10px;
+    margin-right: 20%;
+	
+}
+
+.sub-h1-1 {
+	padding-left: 6%;
+	/*padding-left: 75px;*/
+}
+.sub-h1-2 {
+    
+	padding-left: 130px;
+}
+.sub-h2 {
+	
+	margin-right: 110px;
+}
+.TileBase {
+	width: 100%;
+	
+	margin-top: 10px;
+
+	position: relative;
+	padding-left: 20px;
+
+	height: 80px;
+ 
+	background-color: white;
+	border-bottom: 3px solid rgb(226, 221, 221);
+}
+.b-ton {
+    
+
+	width: 140px;
+	height: 30px;
+   
+    margin-left: 30px;
+	color: white;
+	background: #8a88f5;
+}
+.bs-tile{
+    text-align: center;
+    background-color: white;
+}
